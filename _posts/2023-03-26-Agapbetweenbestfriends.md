@@ -24,4 +24,4 @@ And that's what these poems are for.
 But what happens when my feelings are so complex that a poem is not enough? <br>
 But what happens when the poems I write deteriorate into rants? <br>
 Are they even poems anymore? <br>
-Are they even feelings?
+Are they even feelings? 

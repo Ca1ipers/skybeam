@@ -28,4 +28,4 @@ It gives a strange sense of something. <br>
 Not quite comfort, but it's one I haven't felt in a while. <br>
 So in a masochistic sense, I stay up and cry.
 
-What is wrong with me.
+What is wrong with me. 
