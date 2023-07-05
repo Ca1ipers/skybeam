@@ -25,6 +25,6 @@ I don’t care about the things I used to <br>
 But I care about the things I don't really need to. <br>
 I wish I didn’t care about the thoughts that come through. <br>
 Because one day I might agree. <br>
-But then after that it won’t be my problem.
+But then after that it won’t be my problem. 
 
 
