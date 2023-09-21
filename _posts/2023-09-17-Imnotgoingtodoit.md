@@ -28,4 +28,4 @@ Can you tell me everything is going to be okay, even if I don’t believe you? <
 Can you tell me that you love and care, even if I don’t believe you? <br>
 Can you tell me that I have to keep going, even if I don’t believe you? <br>
 My heart keeps crying but this at least keeps it distracted. <br>
-If only I had someone to say it to me.
+
