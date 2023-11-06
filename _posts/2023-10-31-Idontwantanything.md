@@ -20,12 +20,12 @@ I don’t want to kneel.
 
 No answer makes me happy. <br>
 So I just suffer for the time being. <br>
-I don;t want to just take the pain. <br>
+I don't want to just take the pain. <br>
 But really, is there anything I can even do?
 
 I don’t want to be alone <br>
-I don;t want to be together. <br>
-I don;t want to see. <br>
+I don't want to be together. <br>
+I don't want to see. <br>
 I don’t want to be blind.
 
 I know what’s going on. <br>
