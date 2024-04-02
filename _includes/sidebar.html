@@ -6,7 +6,16 @@
                     {{ site.title }}
                 </a>
             </h1>
-            <p class="lead">{{ site.description }}</p>
+            <!--p class="lead">{{ site.description }}</p-->
+            <p class="lead" id="random-quote"></p>
+            <script>
+                const messages = [
+                    'phrase 1',
+                    'phrase 2'
+                ];
+                const randomIndex = Math.round(Math.random() * (messages.length - 1));
+                document.getElementById("random-quote").innerHTML = messages[randomIndex];
+            </script>
         </div>
 
         <div id="sidebar-bottom">
