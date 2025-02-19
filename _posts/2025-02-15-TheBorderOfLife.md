@@ -12,7 +12,7 @@ I step onto the vessel and ask the bargeman to proceed.<br>
 Large drums thump somberly with every row.<br>
 The ripples in the water reflect the stars above.
 
-Each star shows every year,<br>
+Each star shows every year, <br>
 Every month,<br>
 Every week,<br>
 Every day,<br>
