@@ -2,6 +2,7 @@
 title: The Border of life
 layout: post
 ---
+
 The bamboo flute announces my arrival, <br>
 The symphony of strings lowers me gently.<br>
 Lanterns fly into the mist, the sky covered in scrolls of memories.<br>
