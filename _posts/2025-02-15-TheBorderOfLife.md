@@ -39,6 +39,6 @@ A tear that I unknowingly shed.<br>
 
 The symphony of strings lifts me gently into the sky.<br>
 Drums roar to life, with a whirlwind of flames and butterflies.<br>
-Bamboo flutes wish me goodbye and goodluck.<br>
+Bamboo flutes wish me goodbye and good luck.<br>
 I take one last glance at the bargeman below.<br>
 “Every story will have its ending, please do not rush.”
